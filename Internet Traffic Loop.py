@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#written by s1ck0
+
 from subprocess import Popen
 import os
 import time
